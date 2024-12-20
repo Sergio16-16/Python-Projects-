@@ -1,0 +1,70 @@
+[
+    {
+        "pergunta": "Quando dos times abaixo que so venceu apenas uma vez a NFL ?",
+        "alternativas": [
+            {
+                "titulo": "Kansas City Chiefs",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Seattle Seahawks",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Baltimore Ravens",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o melhor kicking da NFL atualmente? ",
+        "alternativas": [
+            {
+                "titulo": "Justin Tucker",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Daniel Carlson",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Dustin Hopskins",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o melhor jogador da temporada de 2021/2022?",
+        "alternativas": [
+            {
+                "titulo": "Tom Brady",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Cooper Kupp",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Tyreek Hill",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o melhor Recebedor da temporada da NFL? ",
+        "alternativas": [
+            {
+                "titulo": "Cooper Kupp",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Davante Adamns",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Diontae Johnson",
+                "verdadeiro": false
+            }
+        ]
+    }
+]

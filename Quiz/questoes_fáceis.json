@@ -1,0 +1,121 @@
+[
+    {
+        "pergunta": "Qual o Quarteback com maior numero de titulos? ",
+        "alternativas": [
+            {
+                "titulo": "Justin Fields",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Derek Carr",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Tom Brady",
+                "verdadeiro": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o Quarteback do New England Patriots? ",
+        "alternativas": [
+            {
+                "titulo": "Tom Brady",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Aaron Rodgers",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Mac Jones",
+                "verdadeiro": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantas jardas s\u00c3\u00a3o uma primeira descida? ",
+        "alternativas": [
+            {
+                "titulo": "10",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "20",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "5",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome da fun\u00c3\u00a7\u00c3\u00a3o de um jogador que chuta o Field Goal ?",
+        "alternativas": [
+            {
+                "titulo": "Quarteback",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Kicking",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Punter",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o Atual Campe\u00c3\u00a3o da NFL? ",
+        "alternativas": [
+            {
+                "titulo": "Las Vegas Raiders",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "New York Jets",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Los Angeles Rams",
+                "verdadeiro": true
+            }
+        ]
+    },
+    {
+        "pergunta": "teste",
+        "alternativas": [
+            {
+                "titulo": "alternativa teste",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "alternativa teste",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "alternativa teste",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual a disciplina certa?",
+        "alternativas": [
+            {
+                "titulo": "Programa\u00e7\u00e3o 1",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Discreta 2",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Matem\u00e1tica",
+                "verdadeiro": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+
+
+[
+    {   "codigo": 1,
+        "pergunta": "Qual time mudou de cidade?",
+        "alternativas": [
+            {
+                "titulo": "Las vegas Raiders",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Philadelphia Eagles",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Miami Dolphins",
+                "verdadeiro": false
+            }
+
+        ]
+    },
+    {
+        "pergunta": "Quais os times com mais vitórias na temporada regular de 2021?",
+        "alternativas": [
+            {
+                "titulo": "Chiefs e Buccaneers",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Packers e Rams",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Philadelphia Eagles e Cincinatti Bengals",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o time com mais touchdowns terrestres em 2021? ",
+        "alternativas": [
+            {
+                "titulo": "Philadelphia Eagles",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "San Franscisco 49ers",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Dallas Cowboys",
+                "verdadeiro": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o quarterback que mais recebeu sacks na temporada?",
+        "alternativas": [
+            {
+                "titulo": "Jared Goff",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Justin Herbert",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Joe Burrow",
+                "verdadeiro": true
+            }
+
+        ]
+    },
+    {
+        "pergunta": "Qual time colocou mais pontos em uma partida nos playoffs em 2021?",
+        "alternativas": [
+            {
+                "titulo": "Buffalo Bills",
+                "verdadeiro": true
+            },
+            {
+                "titulo": "Kansas City Chiefs",
+                "verdadeiro": false
+            },
+            {
+                "titulo": "Tampa Bay Buccaneers",
+                "verdadeiro": false
+            }
+
+        ]
+    }
+]
