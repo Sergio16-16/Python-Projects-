@@ -16,7 +16,7 @@ def search_youtube_videos(api_key, query, max_results=11):
     for item in search_response.get('items', []):
         if item['id']['kind'] == 'youtube#video':
             video_data = {
-                'title': item['snippet']['title'],
+                'title': item['snippet']['tile'],
                 'videoId': item['id']['videoId'],
             }
             videos.append(video_data)
